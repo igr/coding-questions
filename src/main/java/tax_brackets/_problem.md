@@ -9,8 +9,7 @@ For example, we might have income tax brackets defined as follows:
 50,001	\infty	20%
 ```
 
-To calculate someone's tax obligation on their earnings, we take the percentage associated
-to each tax bracket from their earnings in that range. For example:
+To calculate someone's tax obligation on their earnings, we take the percentage associated to each tax bracket from their earnings in that range. For example:
 
 1. If someone's earnings are `$56,000`, their tax obligation is:
 
